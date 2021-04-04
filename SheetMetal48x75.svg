@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="136.06px" height="212.6px" viewBox="0 0 136.06 212.6" style="enable-background:new 0 0 136.06 212.6;"
+	 xml:space="preserve">
+<g id="LWPOLYLINE">
+	<polyline style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" points="0.353,0.401 
+		135.647,0.401 135.647,211.798 0.353,211.798 0.353,0.401 	"/>
+</g>
+<g id="LWPOLYLINE_1_">
+	<polyline style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" points="25,90.583 
+		22.714,82.042 22.107,73.222 23.203,64.449 25.96,56.048 30.276,48.332 35.991,41.586 42.893,36.061 50.726,31.961 59.2,29.438 
+		68,28.587 76.8,29.438 85.274,31.961 93.107,36.061 100.01,41.586 105.725,48.332 110.04,56.048 112.797,64.449 113.893,73.222 
+		113.286,82.042 111,90.583 	"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" x1="111" y1="90.583" x2="80.9" y2="79.323"/>
+	<polyline style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" points="80.9,79.323 
+		81.586,76.761 81.768,74.115 81.439,71.483 80.612,68.963 79.317,66.648 77.603,64.625 75.532,62.967 73.183,61.737 70.64,60.98 
+		68,60.725 65.36,60.98 62.818,61.737 60.468,62.967 58.397,64.625 56.683,66.648 55.388,68.963 54.561,71.483 54.232,74.115 
+		54.414,76.761 55.1,79.323 	"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" x1="55.1" y1="79.323" x2="25" y2="90.583"/>
+</g>
+<g id="LINE">
+	
+		<line style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" x1="68" y1="60.725" x2="68" y2="28.587"/>
+</g>
+<g id="LINE_1_">
+	
+		<line style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" x1="68" y1="145.283" x2="68" y2="113.146"/>
+</g>
+<g id="LWPOLYLINE_2_">
+	
+		<line style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" x1="25" y1="175.142" x2="55.1" y2="163.882"/>
+	<polyline style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" points="
+		55.1,163.882 54.414,161.32 54.232,158.674 54.561,156.042 55.388,153.521 56.683,151.207 58.397,149.184 60.468,147.525 
+		62.818,146.296 65.36,145.539 68,145.283 70.64,145.539 73.183,146.296 75.532,147.525 77.603,149.184 79.317,151.207 
+		80.612,153.521 81.439,156.042 81.768,158.674 81.586,161.32 80.9,163.882 	"/>
+	
+		<line style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" x1="80.9" y1="163.882" x2="111" y2="175.142"/>
+	<polyline style="fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;" points="111,175.142 
+		113.286,166.602 113.893,157.78 112.797,149.008 110.04,140.607 105.725,132.891 100.01,126.145 93.107,120.62 85.274,116.52 
+		76.8,113.997 68,113.146 59.2,113.997 50.726,116.52 42.893,120.62 35.991,126.145 30.276,132.891 25.96,140.607 23.203,149.008 
+		22.107,157.78 22.714,166.602 25,175.142 	"/>
+</g>
+</svg>
